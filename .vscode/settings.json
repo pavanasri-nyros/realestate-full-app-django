@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+    "git.ignoreLimitWarning": true,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true
+}
